@@ -10,12 +10,18 @@ Search Feature
 
 Find Top Rated Restaurants
 
-![Screenshot (45)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/assets/103417842/4d62abff-fa29-4047-9800-68929b2df26b)
+![Screenshot (45)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/86a3c2a6374e122081f9f0e5eee3a11c40176c4e/src/Project%20Img/Screenshot%20(64).png)
 
 Shimmer UI effect
 
-![Screenshot (46)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/assets/103417842/f445842e-a489-4435-832a-80aef7091759)
+![Screenshot (46)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/86a3c2a6374e122081f9f0e5eee3a11c40176c4e/src/Project%20Img/Screenshot%20(65).png)
 
 Restaurant Dishes Detail Page
 
-![Screenshot (47)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/assets/103417842/68eac37f-849d-48d2-b27b-213cf0f4eb48)
+![Screenshot (47)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/86a3c2a6374e122081f9f0e5eee3a11c40176c4e/src/Project%20Img/Screenshot%20(66).png)
+
+
+About Page
+
+![Screenshot (47)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/86a3c2a6374e122081f9f0e5eee3a11c40176c4e/src/Project%20Img/Screenshot%20(66).png)
+
