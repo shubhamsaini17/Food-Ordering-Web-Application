@@ -23,5 +23,15 @@ Restaurant Dishes Detail Page
 
 About Page
 
-![Screenshot (47)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/86a3c2a6374e122081f9f0e5eee3a11c40176c4e/src/Project%20Img/Screenshot%20(66).png)
+![Screenshot (47)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/e890f73546825abc821dd73be790baf9d623c406/src/Project%20Img/Screenshot%20(67).png)
+
+
+Contact Page
+
+![Screenshot (47)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/e890f73546825abc821dd73be790baf9d623c406/src/Project%20Img/Screenshot%20(68).png)
+
+Cart 
+
+![Screenshot (47)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/e890f73546825abc821dd73be790baf9d623c406/src/Project%20Img/Screenshot%20(69).png)
+
 
