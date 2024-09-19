@@ -2,11 +2,11 @@ Live Link:-- https://food-order-webapp1.netlify.app/
 
 Home Page
 
-![Screenshot (45)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/assets/103417842/cd314398-348d-4e62-b82d-feb2ea946d3e)
+![Screenshot (45)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/a12c0e41610e1b896ac232eaf7c3a38af39e1a63/src/Project%20Img/Screenshot%20(62).png)
 
 Search Feature
 
-![Screenshot (48)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/assets/103417842/3ada78d6-c3ed-4553-b4b9-8627e777b548)
+![Screenshot (48)](https://github.com/shubhamsaini17/Food-Ordering-Web-Application/blob/a12c0e41610e1b896ac232eaf7c3a38af39e1a63/src/Project%20Img/Screenshot%20(63).png)
 
 Find Top Rated Restaurants
 
